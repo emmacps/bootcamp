@@ -2,15 +2,16 @@
     background-color: blue;
 }
 
-.banner{
-    height: 680px;
+/* .banner{
+    height: 520px;
+    width: 100%;
+} */
+
+.banner-img{
+    height: 520px;
     width: 100%;
 }
 
-.banner img{
-    height: 200px;
-    width: 100%;
-}
 
 body{
     background-color: blue;
